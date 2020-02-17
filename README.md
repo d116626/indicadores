@@ -72,8 +72,7 @@
     - Taxa mortalidade
     - Taxa de Ocupação
     - Média de Permanencia
-  
-  
+
 
   - Mortalidade
     - Taxa de mortalidade infantil
@@ -132,6 +131,8 @@
   - ENADE - Exame Nacional de Desempenho de Estudantes
   
 - Indicadores gerais escolares:
+  - Número de Aluno
+  - Número de Professores
   - Nível de evasão escolar;
   - Média de notas da escola;
   - Índices de aprovação;
@@ -158,7 +159,6 @@
 |Consumo de Energia|[Dados Energeticos](http://dadosenergeticos.energia.sp.gov.br/portalcev2/index.html)| Telefone: 11 3133-3000
 |PIB Mensal|[SEADE](https://www.seade.gov.br/produtos/pib-mensal/)|
 
-                 
 
 
 ----
@@ -166,7 +166,11 @@
 ## Orçamento
 
 - Indicadores:
-    - a
+    - Dotação Inicial
+    - Dotação Atual
+    - Valor Pago
+    - Receita
+    - Emendas
 
 - Fonte de Dados:
   - [TCESP](https://www.tce.sp.gov.br/#)
@@ -184,7 +188,11 @@
 ----
 ## Demografico
 - Indicadores:
-  - a
+  - População
+  - PIB
+  - Espectativa de vida
+  - IDH
+  - 
 
 - Fonte de Dados:
     - [SEADE](http://www.seade.gov.br/lista-produtos/)
