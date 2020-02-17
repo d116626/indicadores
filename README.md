@@ -2,8 +2,51 @@
 
 
 ## Segurança
-- Taxa de Homicídios
-- 
+- Indicadores  
+  - Policiais em Serviço e Fora de Serviço
+  - Morte decorrente de intervenção policial
+  - Gastos Com Segurança Publica
+  - Sitema Prisional
+  - ESTUPRO
+  - ESTUPRO DE VULNERÁVEL
+  - FURTO - OUTROS
+  - FURTO DE VEÍCULO
+  - HOMICÍDIO CULPOSO OUTROS
+  - HOMICÍDIO CULPOSO POR ACIDENTE DE TRÂNSITO
+  - HOMICÍDIO DOLOSO
+  - HOMICÍDIO DOLOSO POR ACIDENTE DE TRÂNSITO
+  - LATROCÍNIO
+  - LESÃO CORPORAL CULPOSA - OUTRAS
+  - LESÃO CORPORAL CULPOSA POR ACIDENTE DE TRÂNSITO
+  - LESÃO CORPORAL DOLOSA
+  - LESÃO CORPORAL SEGUIDA DE MORTE
+  - Nº DE ARMAS DE FOGO APREENDIDAS
+  - Nº DE FLAGRANTES LAVRADOS
+  - Nº DE INFRATORES APREENDIDOS EM FLAGRANTE
+  - Nº DE INFRATORES APREENDIDOS POR MANDADO
+  - Nº DE PESSOAS PRESAS EM FLAGRANTE
+  - Nº DE PESSOAS PRESAS POR MANDADO
+  - Nº DE PRISÕES EFETUADAS
+  - Nº DE VEÍCULOS RECUPERADOS
+  - Nº DE VÍTIMAS EM HOMICÍDIO DOLOSO
+  - Nº DE VÍTIMAS EM HOMICÍDIO DOLOSO POR ACIDENTE DE TRÂNSITO
+  - Nº DE VÍTIMAS EM LATROCÍNIO
+  - OCORRÊNCIAS DE APREENSÃO DE ENTORPECENTES
+  - OCORRÊNCIAS DE PORTE DE ENTORPECENTES
+  - OCORRÊNCIAS DE PORTE ILEGAL DE ARMA
+  - OCORRÊNCIAS DE TRÁFICO DE ENTORPECENTES
+  - ROUBO - OUTROS
+  - ROUBO A BANCO
+  - ROUBO DE CARGA
+  - ROUBO DE VEÍCULO
+  - TENTATIVA DE HOMICÍDIO
+  - TOTAL DE ESTUPRO
+  - TOTAL DE ROUBO - OUTROS
+
+
+
+
+
 
 - Fonte de Dados
   - [SSP](http://www.ssp.sp.gov.br/Estatistica/Default.aspx)
@@ -16,11 +59,46 @@
 
 ## Saúde
 - Indicadores:
-  - Ociosidade
-  - Taxa de Ocupação
-  - Média de Permanencia
+
+  - Procedimentos hospitalares do SUS
+    - AIH aprovadas
+    - Internações
+    - Valor
+    - Valor serviços hospitalares
+    - Valor médio AIH
+    - Dias de permanência
+    - Valor médio internação
+    - Óbitos
+    - Taxa mortalidade
+    - Taxa de Ocupação
+    - Média de Permanencia
+  
+  
+
+  - Mortalidade
+    - Taxa de mortalidade infantil
+    - Incidência de Sarampo
+    - Taxa de incidência de dengue
+  - Recursos
+    - Número de profissionais de saúde por habitante
+    - Número de leitos hospitalares por habitante
+    - Número de leitos hospitalares (SUS) por habitante
+    - Gasto público com saúde como proporção do PIB
+    - Gasto público com saúde per capita
+    - Despesa familiar com saúde como proporção da renda
+    - Gasto médio (SUS) por atendimento ambulatorial
+    - Gasto público com saneamento como proporção do PIB
+
+  - Cobertura
+    - Número de consultas médicas (SUS) por habitante
+    - Número de internações hospitalares (SUS) por habitante
+
   - Central de vagas
+  - Ociosidade
   - Indicadores da Atenção Básica
+
+
+
 
 
 - Fontes de Dados
@@ -38,6 +116,9 @@
   - [Assistência à Saúde](http://www2.datasus.gov.br/DATASUS/index.php?area=0202)
 
   - [SIOPS - Sistema de Informações sobre Orçamentos Públicos em Saúde](http://www.saude.gov.br/repasses-financeiros/siops/demonstrativos-dados-informados#SAA2)
+  
+  - [ Sistema de Apoio à Gestão - CGOF
+](https://www.sani.saude.sp.gov.br/Default.aspx?idPagina=12652) 
 
 ----
 
